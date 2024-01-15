@@ -22,10 +22,9 @@
 -->
 
 
-<p style="display: flex; justify-content: space-evenly;">
-  <img src="https://github-readme-stats.vercel.app/api?username=kundusubrata&show_icons=true&locale=en" alt="kundusubrata" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kundusubrata&" alt="kundusubrata" />
-</p>
+<p> <img src="https://github-readme-stats.vercel.app/api?username=kundusubrata&show_icons=true&locale=en" alt="kundusubrata" /> </p>
+<p> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kundusubrata&" alt="kundusubrata" /></p>
+ 
 
 
 <!--
